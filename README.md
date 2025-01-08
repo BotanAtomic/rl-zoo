@@ -12,7 +12,7 @@ The following table lists all the algorithms planned for implementation. The sta
 
 | Algorithm                                               | Status       |
 |--------------------------------------------------------|--------------|
-| Deep Q-Network (DQN)                                    | Not Implemented |
+| Deep Q-Network (DQN)                                    | Implemented |
 | Double DQN                                              | Not Implemented |
 | Dueling DQN                                             | Not Implemented |
 | Prioritized Experience Replay DQN                       | Not Implemented |
